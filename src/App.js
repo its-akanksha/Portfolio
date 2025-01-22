@@ -10,7 +10,7 @@ function App() {
         <div className="header">
           <div className="portfolio">PORTFOL<div className="o-port">IO</div></div>
           <div className="download">
-            <a href="#">
+            <a>
               Download Resume
             </a>
           </div>
